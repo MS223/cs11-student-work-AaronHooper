@@ -1,16 +1,22 @@
-user_profile = {
-  'Aiden':'12546',
-  'HS223' : '13267',
-  'March5':'13456',
+my_dictionary = {
+  'Aiden': '12546',
+  'HS223': '13267',
+  'March5': '13456',
   "realaidenpierce":"23167",
-	# username(s)
-	# where are you from?
-	# number of siblings
-	# skills
-	# about you
-	# favorite quote
-	# favorite movie
-	# favorite musician
-	# favorite TV show
-	# favorite book
+  "Aaron": "15698",
+  "Bronx": "10460",
+  "Four": "44444"
 }
+
+
+my_dictionary = {
+    'hello': 'hola',
+    'goodbye': 'adios'
+    }
+print my_dictionary.pop('foo', None)
+# None
+print my_dictionary
+# {'goodbye': 2}
+
+# The second value seems to be very important. It seems to help i want to say balance or add something else to the code
+# Which makes the code print
